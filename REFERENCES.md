@@ -642,3 +642,5 @@ mentioned or used!
 
 * [How to try GitHub Advanced Security with your team](https://resources.github.com/security/tools/ghas-trial/) uses Juice Shop as an example for CI/CD integration in [Code scanning in action with Juice Shop](https://resources.github.com/security/tools/ghas-trial/#code-scanning-in-action-with-juice-shop)
 * [CVE Lite CLI](https://owasp.org/cve-lite-cli/) uses Juice Shop as a benchmark in its [OWASP Juice Shop Case Study](https://owasp.org/cve-lite-cli/docs/case-studies/owasp-juice-shop)
+* [OWASP Security Training Resources](https://owasp.org/www-project-juice-shop/) reference guide and documentation updates
+
